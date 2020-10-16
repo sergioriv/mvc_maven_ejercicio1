@@ -15,7 +15,8 @@ import javax.swing.JTextField;
 
 /**
  * 
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author Sergio Varon
+ * @version 1.0
  */
 public class Ventana extends JFrame{
     

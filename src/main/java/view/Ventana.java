@@ -12,12 +12,10 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 /**
  * 
- * @author Sergio Varon
- * @version 1.0
+ * @author Sammy Guergachi <sguergachi at gmail.com>
  */
 public class Ventana extends JFrame{
     
@@ -65,4 +63,3 @@ public class Ventana extends JFrame{
         panel.add(boton1);
     }
 }
-

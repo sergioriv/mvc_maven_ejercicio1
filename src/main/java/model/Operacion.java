@@ -37,4 +37,8 @@ public class Operacion {
         int s = n+o;
         return " " + s +" ";
     }
+
+    public void co() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
